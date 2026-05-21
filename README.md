@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-fayyaz)
-[![Apegenics](https://img.shields.io/badge/Apegenics-0A0A0A?style=flat-square&logo=icloud&logoColor=white)](https://apegenics.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilalfayyaz180@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=bilalfayyaz11&color=58a6ff&style=flat-square&label=Profile+Views)
 
