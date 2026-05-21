@@ -18,8 +18,6 @@ I'm an **AI Product Engineer** specialising in **AIOps and DevSecOps** — I bui
 
 Currently completing the **EduQual Level 6 Diploma in AIOps** at Al Nafi, working through 2000+ hands-on labs across Linux, Docker, Kubernetes, AWS, CI/CD, and security — all executed on real AWS EC2 infrastructure and documented publicly on GitHub.
 
-I also founded **[Apegenics](https://apegenics.com)** — an Azure managed services and cloud training brand based in the UK.
-
 ---
 
 ## What I Build
@@ -79,10 +77,4 @@ I also founded **[Apegenics](https://apegenics.com)** — an Azure managed servi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalfayyaz11&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
-</div>
-
----
-
-<div align="center">
-<sub>🏢 Founder of <a href="https://apegenics.com">Apegenics</a> — Azure Managed Services & Cloud Training · UK</sub>
 </div>
