@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Bilal+Fayyaz;AI+Product+Engineer;AIOps+%26+DevSecOps+Practitioner;Building+Intelligent+Infrastructure+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Bilal+Fayyaz;Applied+AI+Engineer;DevSecOps+Specialist+%7C+RHCE+Certified;Building+Intelligent+Infrastructure+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -14,19 +14,21 @@
 
 ## About Me
 
-I'm an **AI Product Engineer** specialising in **AIOps and DevSecOps** — I build systems where artificial intelligence meets cloud infrastructure and security automation.
+I'm an **Applied AI Engineer** specialising in **DevSecOps, Security Automation, and Cloud-Native AI systems** — I build intelligent infrastructure that is fast, secure, and production-ready.
 
-Currently completing the **EduQual Level 6 Diploma in AIOps** at Al Nafi, working through 2000+ hands-on labs across Linux, Docker, Kubernetes, AWS, CI/CD, and security — all executed on real AWS EC2 infrastructure and documented publicly on GitHub.
+**RHCE Certified** with a completed 4-stage DevSecOps specialisation covering SAST, DAST, RASP, IaC Security, Container Hardening, Secrets Management, Vulnerability Management, and Advanced DevSecOps on AWS. Currently completing the **EduQual Level 6 Diploma in AIOps** at Al Nafi, working through 2000+ hands-on labs across the full ML, DevSecOps, Kubernetes, and cloud security stack.
+
+My focus is building systems that enterprises can actually deploy, monitor, and defend — not just models in notebooks.
 
 ---
 
 ## What I Build
 
-- **AIOps Pipelines** — Integrating Python-based ML models with ELK Stack, Prometheus, and Grafana for intelligent infrastructure monitoring and anomaly detection
-- **DevSecOps Systems** — Automated security workflows using Snort, OWASP ZAP, and SonarQube, including GRC compliance automation and AI-driven intrusion detection
-- **Cloud Infrastructure** — Designing and deploying AWS and Azure environments with Kubernetes, Terraform, and Ansible across production-grade architectures
-- **CI/CD Pipelines** — Building and optimising pipelines with GitHub Actions and Jenkins for automated testing, security scanning, and container deployment
-- **Security Monitoring** — GDPR data classification with NLP, ELK-based threat monitoring, and AI-enhanced firewall optimisation
+- **Production AI Systems** — End-to-end ML pipelines covering data ingestion, feature engineering, model training, deployment, and drift monitoring with anomaly detection and time-series forecasting
+- **DevSecOps Automation** — Advanced CI/CD pipelines with SAST, DAST, RASP, container security hardening, secrets management, and IaC security across AWS environments
+- **Cloud Infrastructure** — Kubernetes orchestration, Terraform IaC, multi-cloud deployments on AWS/Azure/GCP, disaster recovery with Velero, and Zero-Trust architectures with SPIFFE/SPIRE
+- **Security Intelligence** — NLP-driven GRC compliance analysis, AI-powered threat detection, OWASP ZAP integration, SIEM pipelines, and incident response automation
+- **AI-Driven Observability** — Prometheus/Grafana monitoring stacks, ELK-based log intelligence, OpenTelemetry distributed tracing, and predictive alerting systems
 
 ---
 
@@ -34,27 +36,54 @@ Currently completing the **EduQual Level 6 Diploma in AIOps** at Al Nafi, workin
 
 <div align="center">
 
+**AI & Machine Learning**
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi)](https://skillicons.dev)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-412991?style=flat-square&logo=openai&logoColor=white)
+
 **Cloud & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible)](https://skillicons.dev)
 
 **Containers & Orchestration**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,helm)](https://skillicons.dev)
 
 **CI/CD**
 
-[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,jenkins,argocd)](https://skillicons.dev)
 
 **Security & Monitoring**
 
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,vault)](https://skillicons.dev)
 
-**Languages & Scripting**
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-0D1B2A?style=flat-square&logo=spiffe&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux)](https://skillicons.dev)
+**Systems & Scripting**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
 
 </div>
+
+---
+
+## Currently Building
+
+| Domain | Path | Status |
+|--------|------|--------|
+| ☸️ Kubernetes | KCNA → KCSA → CKA → CKAD → CKS → Golden Kubestronaut | 🔄 In Progress |
+| 🔐 Cybersecurity | Al Razzaq Offensive & Defensive — 25+ programs | 🔄 In Progress |
+| 📊 Data Engineering | Spark · ClickHouse · ETL/ELT · NoSQL · AI/ML Integration | 🔄 In Progress |
+| ⚙️ DevOps Toolchain | ArgoCD · Vault · Helm · Tekton · Drone CI · OpenTelemetry | 🔄 In Progress |
+| ☁️ Red Hat Advanced | OpenShift Admin II & III · OpenStack · Virtualization | 🔄 In Progress |
+| 🤖 Agentic AI | LLM Fine-tuning · RAG · Multi-Agent Workflows · GenAI Systems | 🔄 In Progress |
 
 ---
 
